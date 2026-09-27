@@ -1,0 +1,291 @@
+﻿booking_id,booking_date,route,travel_class,booking_channel,traveler_type,ticket_price_inr,advance_booking_days,miles_redeemed,lounge_access_used,flight_load_factor_pct,competitor_avg_price_inr,wfh_policy_company,nps_score,cancelled
+BK-000001,2023-11-27,BOM-BLR,Economy,Mobile App,Frequent Flyer,6168,44,24559,0,61%,52132.0,Hybrid,8,0
+BK-000002,2022-04-08,DEL-BLR,Economy,Website,Corporate,5211,110,5844,1,94%,,Full Office,3,0
+BK-000003,2022-05-19,BOM-CCU,First,Mobile App,Leisure,71112,40,41519,0,69%,71788.0,Full Office,6,0
+BK-000004,2023-02-26,BOM-BLR,Economy,Website,Frequent Flyer,8078,7,26140,0,69%,70806.0,Full Office,9,0
+BK-000005,2022-03-02,BOM-BLR,Economy,Website,Corporate,5741,114,11416,1,72%,35226.0,Full Office,2,0
+BK-000006,2022-10-11,BLR-MAA,Economy,Website,Frequent Flyer,6593,80,22859,0,98%,5714.0,Hybrid,8,1
+BK-000007,2023-11-03,CCU-HYD,Business,Mobile App,Government,28216,114,22253,0,59%,67425.0,Full Office,10,0
+BK-000008,2022-05-10,BOM-BLR,Economy,Mobile App,Leisure,7635,81,39230,0,92%,89977.0,Full Office,7,0
+BK-000009,2023-12-20,CCU-HYD,Business,Mobile App,Corporate,42343,49,18184,0,70%,39500.0,Hybrid,3,1
+BK-000010,2022-05-16,BOM-CCU,Economy,OTA,Leisure,6196,90,27846,1,93%,88769.0,Hybrid,1,1
+BK-000011,2022-09-13,DEL-BLR,Business,OTA,Frequent Flyer,43726,30,30221,0,100%,17045.0,Hybrid,6,0
+BK-000012,2022-05-30,BOM-BLR,Business,Mobile App,Corporate,30378,3,42771,1,71%,30204.0,Hybrid,2,0
+BK-000013,2023-12-30,BLR-MAA,Business,OTA,Leisure,41452,65,21459,0,61%,19512.0,Hybrid,3,0
+BK-000014,2022-11-26,DEL-BLR,Economy,OTA,Corporate,7871,55,15498,1,61%,45390.0,Hybrid,5,0
+BK-000015,2022-09-11,DEL-BLR,Economy,Mobile App,Corporate,8957,4,4262,1,89%,72743.0,Hybrid,8,0
+BK-000016,2023-11-24,DEL-BLR,Business,Mobile App,Government,30192,80,32914,0,62%,33956.0,Hybrid,2,0
+BK-000017,2023-02-07,BOM-CCU,Economy,OTA,Corporate,4976,53,45500,1,67%,82029.0,Full Remote,6,0
+BK-000018,2023-05-17,BLR-MAA,Economy,Travel Agent,Frequent Flyer,5747,102,34885,1,64%,51311.0,Full Office,1,0
+BK-000019,2022-05-26,DEL-HYD,Economy,Website,Leisure,5109,95,38215,1,71%,44561.0,Full Remote,7,0
+BK-000020,2023-08-15,DEL-BOM,Economy,Travel Agent,Leisure,5322,92,21398,0,58%,71898.0,Full Remote,4,1
+BK-000021,2023-10-10,BOM-BLR,Economy,Website,Corporate,6070,79,43623,1,94%,13623.0,Hybrid,1,0
+BK-000022,2022-10-03,BOM-BLR,Economy,Mobile App,Frequent Flyer,6434,0,29924,0,94%,70769.0,Hybrid,9,0
+BK-000023,2023-10-05,BOM-BLR,Economy,Website,Corporate,8662,75,318,0,74%,25651.0,Full Remote,9,0
+BK-000024,2023-03-01,CCU-HYD,Economy,Website,Leisure,5440,82,12161,1,83%,28869.0,Hybrid,3,0
+BK-000025,2023-01-20,DEL-HYD,Economy,Website,Leisure,8972,72,12323,0,84%,55954.0,Full Office,6,1
+BK-000026,2023-04-08,DEL-BLR,Economy,Corporate Portal,Leisure,8236,111,5749,1,89%,81664.0,Hybrid,7,0
+BK-000027,2022-03-19,DEL-BLR,Business,Website,Leisure,46096,60,33022,1,78%,54165.0,Hybrid,4,0
+BK-000028,2023-10-11,CCU-HYD,Economy,Website,Government,8779,6,9528,1,78%,60161.0,Full Remote,6,1
+BK-000029,2022-04-06,DEL-BOM,Economy,Website,Corporate,7977,29,21441,0,83%,71011.0,Hybrid,9,1
+BK-000030,2023-02-17,BLR-MAA,Economy,Mobile App,Leisure,8139,14,8526,1,87%,27043.0,Full Office,10,0
+BK-000031,2023-06-12,DEL-HYD,Economy,OTA,Government,6542,107,44051,1,71%,75315.0,Hybrid,6,0
+BK-000032,2022-10-12,DEL-HYD,Economy,Website,Leisure,6873,3,37161,0,70%,40527.0,Full Office,7,0
+BK-000033,2023-12-13,BOM-CCU,Economy,Website,Corporate,8793,62,1044,0,67%,19931.0,Hybrid,6,0
+BK-000034,2023-01-13,DEL-BLR,Business,Mobile App,Corporate,33767,69,12765,1,80%,34760.0,Full Office,7,1
+BK-000035,2023-04-11,DEL-HYD,Economy,Mobile App,Corporate,4741,37,18175,1,71%,25921.0,Full Office,1,0
+BK-000036,2023-05-15,DEL-HYD,Business,Website,Corporate,43187,46,48887,1,79%,24441.0,Full Office,6,0
+BK-000037,2022-12-02,BOM-BLR,First,Mobile App,Leisure,93603,59,961,1,73%,,Full Office,9,0
+BK-000038,2023-08-19,CCU-HYD,Economy,Mobile App,Leisure,8258,98,3749,0,93%,20379.0,Hybrid,3,0
+BK-000039,2022-01-03,DEL-BLR,Economy,Mobile App,Corporate,4894,1,37333,0,58%,61755.0,Full Office,6,0
+BK-000040,2022-04-06,BOM-CCU,Economy,OTA,Leisure,7377,68,40284,0,81%,54299.0,Hybrid,4,0
+BK-000041,2023-04-15,BLR-MAA,First,Website,Frequent Flyer,74239,7,16973,1,81%,60118.0,Full Office,7,0
+BK-000042,2023-10-13,DEL-BOM,Business,Website,Frequent Flyer,46630,50,18372,0,72%,34217.0,Full Remote,7,1
+BK-000043,2023-11-12,BLR-MAA,Business,Corporate Portal,Frequent Flyer,27193,116,43799,0,74%,70427.0,Hybrid,9,0
+BK-000044,2023-12-16,BOM-CCU,Economy,Corporate Portal,Corporate,8386,93,43393,0,91%,16017.0,Full Office,4,0
+BK-000045,2023-01-02,BOM-BLR,Business,Website,Corporate,26670,111,35757,1,68%,53547.0,Full Remote,8,0
+BK-000046,2022-03-06,DEL-BOM,Business,OTA,Frequent Flyer,25115,18,38433,1,94%,28414.0,Hybrid,8,0
+BK-000047,2023-07-02,BLR-MAA,Economy,Travel Agent,Corporate,5620,93,4541,0,95%,49847.0,Full Office,8,0
+BK-000048,2023-02-12,DEL-BLR,Economy,Website,Corporate,6065,118,30678,1,84%,32509.0,Hybrid,8,0
+BK-000049,2022-08-12,DEL-BLR,Economy,Mobile App,Leisure,7401,30,18344,0,90%,72194.0,Hybrid,6,0
+BK-000050,2023-03-16,DEL-BOM,Economy,Website,Corporate,5149,79,45154,0,83%,80758.0,Hybrid,8,0
+BK-000051,2022-08-05,DEL-BOM,Business,Website,Frequent Flyer,35215,101,8846,0,79%,68119.0,Hybrid,6,0
+BK-000052,2023-05-22,DEL-BOM,Economy,Website,Government,5479,21,33846,0,99%,19925.0,Full Remote,10,0
+BK-000053,2022-10-02,DEL-HYD,Economy,Travel Agent,Government,8442,32,35842,0,68%,28364.0,Full Remote,2,0
+BK-000054,2022-11-27,BOM-CCU,Economy,Corporate Portal,Frequent Flyer,4755,113,42315,1,62%,83145.0,Full Remote,3,0
+BK-000055,2022-10-18,DEL-BLR,Economy,Mobile App,Corporate,6170,85,5029,1,68%,42164.0,Hybrid,6,0
+BK-000056,2022-12-12,DEL-BLR,Economy,Mobile App,Government,7423,71,16272,1,83%,85000.0,Hybrid,7,0
+BK-000057,2023-07-15,BOM-CCU,First,Mobile App,Leisure,113829,36,48613,1,63%,38358.0,Full Office,4,0
+BK-000058,2023-08-15,BOM-BLR,Economy,Travel Agent,Government,8499,11,23770,1,96%,85901.0,Hybrid,1,0
+BK-000059,2022-05-14,DEL-BLR,Economy,Travel Agent,Corporate,8623,113,13104,0,73%,83688.0,Full Office,4,0
+BK-000060,2023-08-03,BLR-MAA,Economy,Mobile App,Government,4836,68,15855,1,93%,61145.0,Full Remote,6,0
+BK-000061,2023-05-12,BOM-BLR,Economy,Travel Agent,Frequent Flyer,8376,63,37524,1,66%,5750.0,Hybrid,8,0
+BK-000062,2022-12-18,CCU-HYD,Economy,Mobile App,Corporate,8099,24,37463,1,69%,39028.0,Hybrid,4,0
+BK-000063,2023-11-30,CCU-HYD,Economy,Travel Agent,Corporate,8656,53,919,0,58%,82455.0,Full Office,10,0
+BK-000064,2022-02-19,BLR-MAA,Economy,Website,Corporate,5968,28,42706,0,67%,80234.0,Full Office,1,0
+BK-000065,2022-02-17,DEL-BOM,Economy,Website,Leisure,8699,12,34526,1,77%,20928.0,Full Office,5,0
+BK-000066,2022-04-12,DEL-BLR,Economy,Mobile App,Corporate,6382,116,34599,1,98%,38931.0,Full Remote,7,0
+BK-000067,2023-10-04,BLR-MAA,Economy,Corporate Portal,Frequent Flyer,7435,25,9363,0,73%,76018.0,Full Office,6,0
+BK-000068,2023-04-16,BLR-MAA,Business,Mobile App,Leisure,34892,21,49511,1,84%,54120.0,Hybrid,3,0
+BK-000069,2022-01-17,DEL-BOM,Economy,OTA,Leisure,6496,92,14255,0,74%,77020.0,Full Office,7,1
+BK-000070,2022-05-08,CCU-HYD,Business,Website,Government,37893,75,3810,1,57%,75258.0,Hybrid,4,0
+BK-000071,2022-06-11,BOM-BLR,Economy,Mobile App,Leisure,6169,111,1440,0,78%,82136.0,Hybrid,5,0
+BK-000072,2023-03-28,BLR-MAA,Economy,Mobile App,Leisure,8157,109,43879,0,58%,14964.0,Full Remote,7,0
+BK-000073,2023-04-13,DEL-BLR,First,Travel Agent,Government,97202,106,1719,0,95%,17343.0,Hybrid,2,0
+BK-000074,2022-01-01,BOM-BLR,Economy,Corporate Portal,Government,7688,91,44213,0,89%,12039.0,Hybrid,4,0
+BK-000075,2023-03-15,BOM-BLR,Economy,Corporate Portal,Corporate,5601,72,555,0,72%,84498.0,Full Remote,4,0
+BK-000076,2022-07-27,BOM-CCU,Economy,Travel Agent,Corporate,8962,118,42193,1,84%,45389.0,Full Remote,6,0
+BK-000077,2023-12-07,CCU-HYD,Business,Travel Agent,Corporate,40674,9,12112,1,60%,10468.0,Full Office,7,0
+BK-000078,2022-05-16,DEL-BLR,Economy,OTA,Leisure,5447,47,2297,0,87%,32330.0,Hybrid,4,0
+BK-000079,2023-10-28,DEL-BLR,Economy,Mobile App,Corporate,7965,114,1535,1,92%,34870.0,Full Office,10,1
+BK-000080,2022-11-06,DEL-BOM,Economy,Corporate Portal,Government,5340,41,14931,0,92%,73813.0,Full Office,1,0
+BK-000081,2022-06-12,DEL-BOM,Business,OTA,Frequent Flyer,26053,89,6282,0,68%,67516.0,Full Office,1,1
+BK-000082,2022-10-08,DEL-HYD,Economy,Mobile App,Corporate,6950,116,28634,0,67%,63598.0,Full Office,5,0
+BK-000083,2022-04-06,DEL-BLR,Economy,Travel Agent,Leisure,7069,99,44262,0,78%,6858.0,Full Office,1,0
+BK-000084,2023-11-02,CCU-HYD,Economy,Mobile App,Leisure,5410,58,25485,1,99%,82409.0,Hybrid,3,1
+BK-000085,2023-01-05,BOM-BLR,Business,Website,Leisure,33035,52,34729,0,96%,23322.0,Full Remote,9,0
+BK-000086,2022-09-14,DEL-HYD,Economy,Travel Agent,Leisure,8853,39,24587,1,71%,58470.0,Hybrid,3,0
+BK-000087,2022-03-26,DEL-BLR,Economy,Website,Frequent Flyer,5847,74,33747,1,90%,10255.0,Hybrid,3,0
+BK-000088,2023-01-16,DEL-BOM,Business,Mobile App,Corporate,28311,61,33040,1,96%,11930.0,Full Remote,9,0
+BK-000089,2023-11-12,CCU-HYD,Economy,Corporate Portal,Corporate,9066,5,45543,1,67%,5814.0,Hybrid,5,1
+BK-000090,2023-10-27,DEL-BOM,Economy,Website,Leisure,5925,3,23641,1,92%,53104.0,Hybrid,8,0
+BK-000091,2022-06-19,DEL-BLR,First,Website,Leisure,99975,116,26573,1,67%,58497.0,Full Office,10,0
+BK-000092,2022-02-23,DEL-HYD,Business,Travel Agent,Corporate,30173,90,5144,1,70%,9289.0,Hybrid,9,0
+BK-000093,2023-02-10,DEL-BOM,Economy,Mobile App,Corporate,7053,54,1688,0,64%,29691.0,Hybrid,6,0
+BK-000094,2023-10-03,DEL-BOM,Economy,Mobile App,Leisure,6308,87,48088,1,78%,77374.0,Hybrid,7,0
+BK-000095,2022-11-09,BOM-CCU,Economy,Mobile App,Corporate,8925,68,17979,1,93%,13611.0,Hybrid,7,0
+BK-000096,2023-12-18,BLR-MAA,First,Website,Frequent Flyer,85252,113,31803,1,79%,23407.0,Full Office,7,0
+BK-000097,2022-08-28,DEL-BLR,First,Website,Leisure,94258,117,16154,0,61%,41073.0,Full Remote,4,0
+BK-000098,2023-03-16,BOM-CCU,Economy,Corporate Portal,Corporate,8849,2,37451,0,66%,76593.0,Hybrid,2,0
+BK-000099,2023-11-03,CCU-HYD,Business,Website,Leisure,48736,6,15123,0,80%,26662.0,Hybrid,2,0
+BK-000100,2022-04-04,BLR-MAA,Business,Mobile App,Corporate,26991,87,23998,1,81%,89757.0,Hybrid,7,0
+BK-000101,2023-12-22,DEL-BLR,Economy,OTA,Leisure,8346,85,5786,0,81%,35197.0,Hybrid,10,0
+BK-000102,2022-04-08,BOM-CCU,Economy,Corporate Portal,Leisure,6289,11,30289,1,58%,37848.0,Hybrid,7,1
+BK-000103,2022-01-02,BOM-CCU,Economy,Website,Leisure,7256,98,5129,0,89%,15379.0,Hybrid,10,0
+BK-000104,2022-08-07,DEL-BLR,Economy,Mobile App,Government,6256,16,28914,0,96%,62817.0,Hybrid,7,0
+BK-000105,2023-05-04,BOM-BLR,Business,Travel Agent,Corporate,34327,66,25777,0,78%,25695.0,Full Office,8,0
+BK-000106,2022-03-21,DEL-HYD,Business,Travel Agent,Frequent Flyer,28392,74,2845,1,87%,58454.0,Hybrid,3,0
+BK-000107,2022-05-16,DEL-BLR,Economy,Corporate Portal,Government,7156,69,8448,0,96%,23968.0,Hybrid,5,0
+BK-000108,2023-08-31,BOM-CCU,Economy,Mobile App,Corporate,7038,106,49461,1,84%,37969.0,Hybrid,6,0
+BK-000109,2022-08-20,BOM-BLR,Economy,Website,Corporate,5412,35,27139,1,85%,,Full Remote,8,0
+BK-000110,2023-06-16,BOM-CCU,Business,Mobile App,Corporate,37772,16,21718,1,87%,67807.0,Full Office,8,0
+BK-000111,2023-11-28,DEL-HYD,Economy,Travel Agent,Corporate,8978,85,49030,1,67%,18140.0,Hybrid,10,1
+BK-000112,2023-04-01,CCU-HYD,Economy,Travel Agent,Leisure,7801,0,23581,1,81%,56655.0,Full Office,3,0
+BK-000113,2022-01-10,BOM-BLR,Economy,Website,Corporate,6738,107,27993,0,93%,58434.0,Hybrid,4,1
+BK-000114,2022-01-09,DEL-BLR,Economy,Website,Frequent Flyer,8718,119,42048,1,68%,12698.0,Full Office,6,0
+BK-000115,2023-12-14,BLR-MAA,Economy,OTA,Corporate,7168,66,12923,0,95%,44593.0,Hybrid,4,0
+BK-000116,2022-12-18,CCU-HYD,First,Website,Corporate,67535,79,13084,1,83%,27157.0,Full Remote,10,0
+BK-000117,2022-05-04,DEL-HYD,Economy,Website,Corporate,7041,98,17560,0,74%,44706.0,Full Remote,4,0
+BK-000118,2023-03-09,DEL-BOM,Economy,Corporate Portal,Corporate,5373,77,22567,0,83%,71051.0,Hybrid,5,0
+BK-000119,2023-12-12,DEL-BLR,Economy,Mobile App,Frequent Flyer,8042,48,19481,0,73%,18452.0,Hybrid,10,1
+BK-000120,2022-05-16,DEL-BLR,Economy,Website,Leisure,8951,50,32016,1,93%,15481.0,Hybrid,7,0
+BK-000121,2023-05-05,DEL-BLR,Economy,Mobile App,Corporate,6192,70,11422,1,77%,27892.0,Full Office,2,0
+BK-000122,2022-03-14,BOM-BLR,Economy,Mobile App,Frequent Flyer,6529,89,1724,1,96%,85943.0,Hybrid,2,0
+BK-000123,2022-08-23,DEL-BOM,Business,Mobile App,Frequent Flyer,34827,119,30471,0,78%,68565.0,Hybrid,10,0
+BK-000124,2023-01-28,CCU-HYD,Economy,OTA,Government,5848,42,2628,1,85%,6654.0,Full Office,9,0
+BK-000125,2022-04-02,CCU-HYD,Economy,Website,Frequent Flyer,8164,111,27875,0,100%,39085.0,Hybrid,4,0
+BK-000126,2022-04-15,BOM-BLR,Economy,Travel Agent,Leisure,7361,30,17734,0,62%,26879.0,Full Office,5,0
+BK-000127,2022-04-16,BLR-MAA,Business,Website,Leisure,26069,23,24109,1,88%,59242.0,Hybrid,3,0
+BK-000128,2022-11-17,BOM-BLR,Economy,Mobile App,Leisure,8367,82,619,1,61%,44040.0,Hybrid,2,1
+BK-000129,2023-01-12,DEL-BLR,Business,Travel Agent,Corporate,29084,36,13786,0,93%,86982.0,Full Remote,10,0
+BK-000130,2022-11-03,BOM-CCU,Economy,Website,Leisure,9005,64,28634,1,82%,23613.0,Full Office,8,0
+BK-000131,2022-05-21,DEL-BOM,Economy,Travel Agent,Frequent Flyer,6264,88,21927,1,97%,54968.0,Full Office,4,0
+BK-000132,2023-01-27,DEL-BOM,Economy,Website,Leisure,7355,62,9729,1,94%,64518.0,Full Office,1,0
+BK-000133,2022-05-17,CCU-HYD,First,Website,Frequent Flyer,64131,55,22237,0,58%,75173.0,Hybrid,6,0
+BK-000134,2023-10-19,CCU-HYD,Economy,Mobile App,Leisure,6118,73,36540,0,61%,39593.0,Full Office,6,0
+BK-000135,2023-11-25,BOM-BLR,Economy,Travel Agent,Government,8201,17,35301,0,82%,63388.0,Hybrid,2,1
+BK-000136,2022-05-27,BOM-CCU,Economy,Website,Leisure,6721,105,41437,0,78%,30772.0,Hybrid,2,0
+BK-000137,2022-03-12,BOM-CCU,Economy,OTA,Government,8666,64,21735,0,63%,42015.0,Full Office,8,0
+BK-000138,2023-06-28,BOM-BLR,Economy,Website,Leisure,7167,28,34808,1,61%,81128.0,Full Remote,7,1
+BK-000139,2023-07-31,DEL-HYD,Economy,Website,Corporate,8775,76,17949,0,80%,85742.0,Hybrid,2,0
+BK-000140,2022-01-09,BLR-MAA,Economy,Website,Corporate,9021,3,20509,1,57%,66099.0,Hybrid,10,0
+BK-000141,2023-09-17,BOM-BLR,Economy,Website,Frequent Flyer,6615,11,29398,0,94%,36820.0,Full Office,1,0
+BK-000142,2023-10-28,DEL-BLR,Economy,Website,Corporate,7121,55,4268,1,91%,74705.0,Hybrid,8,0
+BK-000143,2022-06-18,BOM-CCU,Economy,Corporate Portal,Leisure,8349,47,35607,1,90%,7199.0,Hybrid,10,0
+BK-000144,2023-03-27,BLR-MAA,Economy,Mobile App,Leisure,5558,18,49619,0,56%,13733.0,Full Office,2,0
+BK-000145,2022-12-26,BOM-BLR,Economy,Mobile App,Leisure,8470,25,44507,1,57%,61217.0,Hybrid,5,0
+BK-000146,2022-08-07,BLR-MAA,Economy,OTA,Government,7243,107,47826,0,80%,29756.0,Hybrid,6,0
+BK-000147,2023-10-06,DEL-HYD,Economy,Mobile App,Government,7851,37,40944,0,100%,85868.0,Hybrid,10,0
+BK-000148,2022-06-05,BOM-CCU,Economy,Website,Frequent Flyer,4913,79,39308,0,70%,42065.0,Full Office,1,0
+BK-000149,2023-02-26,DEL-HYD,Economy,Website,Leisure,8036,107,12412,0,70%,41496.0,Full Remote,2,0
+BK-000150,2023-09-23,CCU-HYD,Economy,Website,Leisure,5964,24,35511,1,61%,62637.0,Hybrid,10,0
+BK-000151,2023-12-05,DEL-HYD,Economy,Mobile App,Frequent Flyer,8214,55,27150,1,85%,70243.0,Full Remote,4,1
+BK-000152,2023-03-30,BOM-CCU,Economy,Website,Frequent Flyer,6867,73,5642,0,84%,45422.0,Hybrid,2,0
+BK-000153,2022-08-11,CCU-HYD,Economy,Mobile App,Frequent Flyer,5799,100,10069,1,60%,23190.0,Hybrid,6,0
+BK-000154,2022-03-30,DEL-BLR,Economy,Travel Agent,Government,8885,27,31832,1,76%,70731.0,Hybrid,4,1
+BK-000155,2022-04-13,DEL-HYD,Economy,Corporate Portal,Corporate,8031,60,1026,0,85%,32230.0,Hybrid,3,0
+BK-000156,2022-05-24,BOM-BLR,Economy,Travel Agent,Corporate,9035,91,3592,0,77%,19884.0,Full Office,6,1
+BK-000157,2022-05-07,BOM-BLR,Economy,Website,Frequent Flyer,6208,88,987,0,85%,58689.0,Full Office,9,0
+BK-000158,2023-08-27,BLR-MAA,Business,Website,Frequent Flyer,40406,88,15917,1,92%,12689.0,Full Office,8,0
+BK-000159,2023-01-29,BOM-BLR,Economy,Mobile App,Government,7333,50,7238,0,86%,87565.0,Hybrid,2,0
+BK-000160,2022-12-26,BOM-BLR,First,Website,Corporate,100410,11,35515,0,83%,,Full Remote,3,0
+BK-000161,2023-03-16,CCU-HYD,Economy,Website,Leisure,4724,7,8330,1,93%,88801.0,Hybrid,2,0
+BK-000162,2022-11-19,CCU-HYD,Business,Mobile App,Corporate,31647,99,5650,1,96%,33806.0,Full Office,10,0
+BK-000163,2022-05-24,BLR-MAA,Economy,Mobile App,Leisure,8687,102,37264,0,72%,87552.0,Hybrid,7,0
+BK-000164,2022-09-11,DEL-BOM,Business,Travel Agent,Leisure,34884,57,25217,1,63%,17373.0,Full Office,9,0
+BK-000165,2022-10-11,BOM-CCU,Economy,Mobile App,Frequent Flyer,8921,87,49588,1,92%,8459.0,Full Remote,1,0
+BK-000166,2023-10-23,BOM-BLR,Economy,OTA,Corporate,5521,22,17807,0,65%,7804.0,Hybrid,3,0
+BK-000167,2022-03-28,BLR-MAA,Economy,Travel Agent,Leisure,9088,36,25712,1,97%,44514.0,Hybrid,6,0
+BK-000168,2022-09-12,DEL-HYD,First,Website,Leisure,101006,10,36489,0,56%,12055.0,Hybrid,4,1
+BK-000169,2023-07-21,DEL-HYD,First,Mobile App,Government,105695,16,27865,1,96%,48534.0,Hybrid,10,0
+BK-000170,2023-09-08,CCU-HYD,Economy,Mobile App,Leisure,6356,91,24633,0,82%,32838.0,Hybrid,10,0
+BK-000171,2023-09-07,DEL-BLR,Economy,Travel Agent,Frequent Flyer,8677,55,25275,0,90%,33528.0,Hybrid,1,0
+BK-000172,2023-09-15,BOM-BLR,Economy,Mobile App,Corporate,7032,52,1145,0,73%,59027.0,Hybrid,9,0
+BK-000173,2022-10-19,BOM-CCU,Economy,Mobile App,Corporate,7648,66,21963,0,100%,18863.0,Full Remote,7,0
+BK-000174,2023-12-09,BLR-MAA,Economy,Mobile App,Government,4981,1,9300,1,65%,70157.0,Full Office,7,0
+BK-000175,2022-01-28,CCU-HYD,First,Website,Leisure,97085,114,46697,1,67%,54473.0,Hybrid,1,0
+BK-000176,2023-11-06,DEL-BLR,Economy,OTA,Corporate,8550,28,20879,0,57%,82770.0,Hybrid,9,1
+BK-000177,2022-11-05,DEL-BLR,Economy,Mobile App,Leisure,5361,56,6242,0,97%,,Hybrid,8,0
+BK-000178,2022-07-30,BLR-MAA,Economy,Website,Government,7907,33,13832,1,76%,88531.0,Full Office,10,0
+BK-000179,2023-06-15,CCU-HYD,Economy,Website,Corporate,4666,77,24683,0,85%,53945.0,Hybrid,5,0
+BK-000180,2023-09-14,CCU-HYD,Economy,Corporate Portal,Corporate,8764,96,14285,0,86%,87739.0,Full Office,4,0
+BK-000181,2023-06-06,BLR-MAA,Economy,Travel Agent,Frequent Flyer,9022,111,28823,1,94%,7300.0,Hybrid,1,0
+BK-000182,2022-07-13,BLR-MAA,Economy,Corporate Portal,Leisure,6162,110,9097,1,85%,66878.0,Hybrid,9,0
+BK-000183,2023-02-06,BLR-MAA,Economy,Corporate Portal,Corporate,5037,81,47852,1,80%,74413.0,Hybrid,8,0
+BK-000184,2022-10-30,BOM-CCU,Economy,Corporate Portal,Corporate,7547,92,1992,1,87%,9520.0,Hybrid,2,0
+BK-000185,2023-10-24,BLR-MAA,Economy,Mobile App,Leisure,4686,1,36890,0,89%,54212.0,Hybrid,4,0
+BK-000186,2022-02-25,CCU-HYD,Business,Website,Corporate,36321,74,28790,1,63%,73165.0,Hybrid,4,0
+BK-000187,2022-09-03,BOM-CCU,Economy,Website,Frequent Flyer,5787,30,29394,0,60%,52688.0,Hybrid,7,0
+BK-000188,2023-05-22,BOM-CCU,Business,Mobile App,Government,36097,116,45058,0,58%,10424.0,Hybrid,3,0
+BK-000189,2023-01-31,BOM-CCU,Economy,Mobile App,Leisure,4633,112,49957,1,72%,63943.0,Full Office,8,0
+BK-000190,2022-04-26,DEL-HYD,Economy,Mobile App,Frequent Flyer,4785,76,18376,1,77%,10151.0,Hybrid,7,0
+BK-000191,2022-09-04,DEL-BOM,Economy,Mobile App,Leisure,4623,43,23880,0,83%,74485.0,Hybrid,10,0
+BK-000192,2023-05-27,DEL-BLR,Business,Travel Agent,Corporate,39669,89,19984,0,98%,8658.0,Full Office,4,0
+BK-000193,2023-10-16,BOM-BLR,Business,Website,Government,38222,55,13541,1,70%,16679.0,Hybrid,9,0
+BK-000194,2023-09-01,DEL-HYD,Economy,Website,Leisure,5611,97,28975,1,89%,28384.0,Full Remote,6,0
+BK-000195,2022-03-14,CCU-HYD,Economy,Travel Agent,Corporate,7492,53,4010,1,79%,58836.0,Full Office,3,0
+BK-000196,2023-06-25,DEL-BOM,Business,Website,Corporate,46163,52,8275,0,65%,87991.0,Hybrid,7,0
+BK-000197,2022-01-13,DEL-BLR,Economy,Travel Agent,Leisure,5812,113,36088,1,83%,15015.0,Full Office,6,0
+BK-000198,2023-01-05,DEL-HYD,Economy,Mobile App,Corporate,8336,73,18889,1,99%,17130.0,Full Remote,8,0
+BK-000199,2022-11-21,DEL-BLR,Economy,OTA,Government,7564,75,40596,1,61%,36354.0,Full Remote,5,0
+BK-000200,2022-05-16,BOM-CCU,Economy,Corporate Portal,Government,4704,112,40653,0,78%,76079.0,Full Remote,6,0
+BK-000201,2023-02-01,BOM-CCU,Economy,Mobile App,Leisure,6257,85,40016,0,57%,44715.0,Hybrid,1,0
+BK-000202,2023-08-06,BLR-MAA,Economy,Travel Agent,Leisure,6860,45,40636,0,69%,32337.0,Full Remote,8,1
+BK-000203,2023-03-07,CCU-HYD,Economy,Website,Leisure,7879,53,32155,0,83%,52702.0,Full Remote,1,0
+BK-000204,2023-01-10,BOM-CCU,Economy,Mobile App,Corporate,5856,30,6349,0,93%,27144.0,Full Office,3,0
+BK-000205,2023-07-14,DEL-HYD,Economy,Travel Agent,Corporate,9021,82,23347,1,88%,39099.0,Full Office,2,1
+BK-000206,2023-12-01,DEL-BLR,Economy,Travel Agent,Corporate,7665,108,3062,0,76%,33271.0,Full Office,6,0
+BK-000207,2022-06-26,BOM-BLR,Economy,Mobile App,Corporate,6246,23,3852,1,96%,73352.0,Full Office,8,0
+BK-000208,2023-04-28,CCU-HYD,Economy,Website,Leisure,4991,24,13160,0,69%,,Hybrid,8,0
+BK-000209,2022-03-16,DEL-BLR,First,Corporate Portal,Government,70291,34,16322,1,89%,69564.0,Full Office,7,0
+BK-000210,2022-01-18,BOM-CCU,Business,Website,Leisure,36446,56,387,1,76%,42322.0,Hybrid,7,0
+BK-000211,2023-08-25,DEL-BLR,Economy,Corporate Portal,Frequent Flyer,6801,71,46891,1,95%,47868.0,Hybrid,8,0
+BK-000212,2022-03-11,DEL-BOM,Business,Travel Agent,Frequent Flyer,43309,68,39805,0,91%,15631.0,Full Office,5,0
+BK-000213,2022-01-15,DEL-BLR,Economy,Mobile App,Frequent Flyer,7854,85,6910,1,96%,,Hybrid,3,0
+BK-000214,2022-09-26,DEL-HYD,Economy,Website,Frequent Flyer,5466,27,15758,1,65%,55700.0,Full Office,2,0
+BK-000215,2022-08-09,DEL-BOM,Economy,Website,Leisure,7257,75,2003,1,85%,81707.0,Hybrid,3,0
+BK-000216,2022-02-10,CCU-HYD,Business,Corporate Portal,Leisure,25005,32,25607,1,88%,22052.0,Full Remote,3,0
+BK-000217,2022-03-03,BLR-MAA,Business,Corporate Portal,Corporate,34264,52,38513,1,88%,69577.0,Full Remote,7,0
+BK-000218,2023-02-12,BLR-MAA,Economy,Mobile App,Government,8027,15,25025,0,78%,63197.0,Full Remote,1,0
+BK-000219,2023-06-03,DEL-BLR,Economy,Mobile App,Leisure,6368,25,3547,1,56%,27597.0,Full Office,7,1
+BK-000220,2022-10-21,BOM-BLR,Economy,Travel Agent,Leisure,8352,11,25672,1,67%,61727.0,Full Office,6,0
+BK-000221,2023-10-06,DEL-HYD,Economy,Mobile App,Government,8992,86,41819,1,70%,83572.0,Hybrid,10,0
+BK-000222,2023-12-31,BOM-BLR,Economy,Travel Agent,Leisure,7313,112,14456,1,93%,83067.0,Hybrid,2,0
+BK-000223,2023-05-29,DEL-BOM,Economy,Mobile App,Leisure,5210,89,301,1,93%,66168.0,Hybrid,10,0
+BK-000224,2023-03-02,BOM-BLR,Business,Corporate Portal,Leisure,33802,104,39872,0,60%,9086.0,Full Office,1,0
+BK-000225,2023-03-10,CCU-HYD,Business,Travel Agent,Government,24732,76,31603,1,98%,79142.0,Hybrid,9,0
+BK-000226,2023-12-20,DEL-BOM,Economy,Mobile App,Frequent Flyer,7292,86,41840,1,63%,60911.0,Full Office,2,0
+BK-000227,2023-02-16,CCU-HYD,Economy,Corporate Portal,Frequent Flyer,8288,30,43241,1,74%,31387.0,Hybrid,4,1
+BK-000228,2022-03-26,BOM-BLR,Business,Mobile App,Government,39934,99,20545,1,65%,20916.0,Full Office,9,1
+BK-000229,2023-10-18,BLR-MAA,Business,Website,Corporate,43759,26,49381,1,94%,14877.0,Hybrid,9,0
+BK-000230,2023-07-04,DEL-HYD,Economy,Website,Frequent Flyer,8190,35,40478,1,89%,9270.0,Hybrid,1,0
+BK-000231,2023-07-05,BOM-BLR,Economy,Travel Agent,Corporate,8422,58,16178,0,71%,69099.0,Hybrid,2,0
+BK-000232,2023-09-23,DEL-BLR,Business,Corporate Portal,Frequent Flyer,31033,110,18216,1,86%,25047.0,Full Office,2,0
+BK-000233,2022-06-06,CCU-HYD,Business,Corporate Portal,Corporate,45846,105,8242,1,63%,7061.0,Full Office,2,1
+BK-000234,2022-10-12,DEL-BOM,Economy,Travel Agent,Leisure,7526,86,7496,1,72%,38768.0,Hybrid,8,0
+BK-000235,2022-03-27,CCU-HYD,Economy,Website,Government,5868,101,20866,1,72%,46022.0,Hybrid,8,0
+BK-000236,2022-11-14,DEL-BLR,Economy,Website,Leisure,9042,2,28357,1,66%,19385.0,Full Office,10,0
+BK-000237,2022-03-22,DEL-HYD,Economy,Mobile App,Leisure,8873,93,46252,1,94%,8744.0,Full Office,8,0
+BK-000238,2023-06-08,DEL-BLR,Business,Corporate Portal,Government,38574,31,31212,0,86%,21076.0,Hybrid,4,0
+BK-000239,2022-07-28,BLR-MAA,Economy,OTA,Leisure,8387,14,5887,0,68%,62724.0,Full Remote,8,0
+BK-000240,2022-06-09,CCU-HYD,Business,Website,Corporate,30907,101,17862,1,66%,11991.0,Full Remote,7,0
+BK-000241,2023-07-04,BLR-MAA,Economy,Corporate Portal,Leisure,6443,74,34856,0,56%,52178.0,Full Office,8,0
+BK-000242,2022-12-01,BOM-CCU,Economy,Mobile App,Corporate,5387,65,6040,1,71%,17445.0,Full Remote,1,0
+BK-000243,2023-02-05,DEL-HYD,Economy,Website,Government,6916,89,24536,1,79%,21634.0,Hybrid,3,1
+BK-000244,2023-08-24,BOM-BLR,Business,Mobile App,Corporate,36652,62,13440,0,67%,38412.0,Hybrid,10,0
+BK-000245,2023-10-12,BLR-MAA,First,Corporate Portal,Leisure,72162,97,47189,1,87%,13570.0,Hybrid,6,0
+BK-000246,2023-10-28,BOM-BLR,Economy,Website,Leisure,7611,0,28371,1,74%,,Hybrid,1,0
+BK-000247,2023-11-29,CCU-HYD,Economy,Corporate Portal,Corporate,5086,74,19724,0,69%,34661.0,Hybrid,4,0
+BK-000248,2023-10-21,BOM-BLR,First,Website,Leisure,63171,4,2343,0,97%,33022.0,Hybrid,9,0
+BK-000249,2022-03-09,CCU-HYD,Economy,Website,Leisure,6301,89,7188,1,67%,68688.0,Full Office,7,0
+BK-000250,2022-11-14,DEL-BOM,First,Website,Frequent Flyer,83885,5,34006,0,73%,11356.0,Full Office,1,1
+BK-000251,2023-12-17,DEL-BLR,Economy,Corporate Portal,Frequent Flyer,6005,98,29096,0,72%,78138.0,Full Remote,6,0
+BK-000252,2023-03-24,BOM-BLR,Economy,Mobile App,Government,5724,115,45216,0,66%,74380.0,Full Remote,6,0
+BK-000253,2022-09-02,CCU-HYD,Economy,Corporate Portal,Leisure,6091,4,6856,0,65%,70109.0,Hybrid,2,0
+BK-000254,2022-03-01,BOM-CCU,Business,Mobile App,Leisure,28503,115,22044,1,69%,31297.0,Full Office,6,0
+BK-000255,2022-09-08,DEL-HYD,Business,Mobile App,Corporate,34385,72,10620,0,94%,74945.0,Full Office,10,0
+BK-000256,2022-03-30,DEL-HYD,Economy,Corporate Portal,Leisure,8666,27,20723,1,90%,20538.0,Full Office,2,1
+BK-000257,2023-03-21,DEL-BOM,Economy,Mobile App,Frequent Flyer,5571,82,41142,0,86%,15575.0,Full Office,8,0
+BK-000258,2022-04-29,BOM-CCU,Economy,Corporate Portal,Leisure,7664,68,41503,1,76%,8821.0,Hybrid,7,0
+BK-000259,2023-04-10,DEL-BLR,Economy,Website,Leisure,5195,86,23475,0,78%,84841.0,Full Remote,6,0
+BK-000260,2023-09-19,BOM-CCU,Economy,Travel Agent,Corporate,6160,107,30243,1,67%,31181.0,Hybrid,10,0
+BK-000261,2023-09-16,CCU-HYD,Business,Travel Agent,Corporate,32369,43,32860,1,58%,82998.0,Full Office,6,1
+BK-000262,2022-02-26,DEL-HYD,Economy,Corporate Portal,Corporate,8813,15,2415,1,70%,28172.0,Hybrid,9,0
+BK-000263,2022-11-13,BOM-CCU,Economy,Website,Leisure,6497,70,4254,1,77%,82143.0,Full Office,9,0
+BK-000264,2023-11-14,DEL-BLR,Economy,Travel Agent,Leisure,7692,77,10637,1,58%,81834.0,Full Office,10,0
+BK-000265,2023-11-05,BLR-MAA,Economy,Mobile App,Leisure,7291,21,24510,1,59%,83512.0,Full Office,10,0
+BK-000266,2022-06-29,BOM-BLR,Economy,Mobile App,Leisure,5192,72,37301,0,67%,47173.0,Full Remote,2,0
+BK-000267,2022-05-03,CCU-HYD,Business,Website,Government,47519,110,6516,1,72%,78605.0,Full Remote,3,0
+BK-000268,2022-01-13,BOM-BLR,Economy,Website,Government,6124,22,4401,0,73%,85815.0,Full Office,10,0
+BK-000269,2023-12-26,DEL-HYD,Economy,Corporate Portal,Government,4754,42,35800,1,60%,32592.0,Full Remote,7,0
+BK-000270,2022-05-21,DEL-HYD,Economy,Travel Agent,Leisure,5917,67,32122,1,65%,40604.0,Full Remote,10,0
+BK-000271,2023-12-20,DEL-BLR,Business,Mobile App,Leisure,32723,42,19673,1,67%,66135.0,Full Office,9,0
+BK-000272,2022-01-12,BOM-CCU,Economy,Corporate Portal,Frequent Flyer,4972,25,29653,0,58%,30531.0,Full Office,6,0
+BK-000273,2022-06-17,DEL-BLR,Economy,Website,Corporate,7371,40,43336,0,70%,69074.0,Hybrid,1,0
+BK-000274,2023-05-24,DEL-BOM,First,Travel Agent,Corporate,80132,69,20822,0,58%,11281.0,Full Office,7,0
+BK-000275,2022-12-22,DEL-HYD,Business,Corporate Portal,Leisure,39914,30,6867,0,87%,49497.0,Full Remote,1,0
+BK-000276,2023-06-20,CCU-HYD,Economy,Corporate Portal,Leisure,4581,16,46944,0,72%,15397.0,Hybrid,5,0
+BK-000277,2023-06-14,CCU-HYD,Economy,Mobile App,Corporate,9018,8,36002,0,70%,29932.0,Hybrid,9,0
+BK-000278,2022-09-23,DEL-HYD,Business,Travel Agent,Government,28678,90,22381,1,61%,26983.0,Full Office,10,0
+BK-000279,2022-06-20,DEL-HYD,Economy,Mobile App,Leisure,7550,54,39069,1,65%,76309.0,Full Remote,10,0
+BK-000280,2023-01-16,DEL-BLR,Economy,Corporate Portal,Leisure,7807,5,17517,1,65%,21449.0,Hybrid,9,0
+BK-000281,2022-05-10,CCU-HYD,Economy,Mobile App,Leisure,5331,69,11830,1,99%,73718.0,Hybrid,1,0
+BK-000282,2022-10-03,DEL-BLR,Economy,Corporate Portal,Leisure,5058,63,10589,1,93%,,Full Office,6,0
+BK-000283,2022-05-01,BOM-CCU,First,Website,Corporate,68578,3,34830,1,56%,47405.0,Hybrid,3,0
+BK-000284,2022-01-31,BLR-MAA,Economy,Travel Agent,Corporate,5673,115,4627,1,83%,24877.0,Hybrid,9,1
+BK-000285,2022-12-10,DEL-HYD,Economy,Mobile App,Corporate,5315,106,45910,0,67%,24286.0,Full Remote,3,0
+BK-000286,2023-03-16,BLR-MAA,First,Travel Agent,Government,99603,66,468,1,60%,44519.0,Hybrid,2,0
+BK-000287,2022-10-06,DEL-BLR,Economy,Travel Agent,Leisure,6465,87,1344,1,87%,5749.0,Hybrid,8,0
+BK-000288,2023-06-21,BOM-CCU,Economy,OTA,Leisure,6997,55,25454,0,61%,50165.0,Full Office,3,0
+BK-000289,2022-03-07,DEL-BLR,Economy,Corporate Portal,Leisure,4765,17,6098,1,75%,85986.0,Hybrid,5,0
+BK-000290,2022-09-27,DEL-BOM,Economy,Website,Leisure,8469,31,44869,0,83%,18150.0,Full Office,6,0
