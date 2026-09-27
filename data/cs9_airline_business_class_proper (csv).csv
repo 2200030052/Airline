@@ -1,0 +1,291 @@
+﻿booking_id,booking_date,route,travel_class,booking_channel,traveler_type,ticket_price_inr,advance_booking_days,miles_redeemed,lounge_access_used,flight_load_factor_pct,competitor_avg_price_inr,wfh_policy_company,nps_score,cancelled
+BK-000001,11/27/2023,BOM-BLR,Economy,Mobile App,Frequent Flyer,"₹6,168",44,24559,0,61%,"₹52,132",Hybrid,8,0
+BK-000002,04/08/2022,DEL-BLR,Economy,Website,Corporate,"₹5,211",110,5844,1,94%,,Full Office,3,0
+BK-000003,05/19/2022,BOM-CCU,First,Mobile App,Leisure,"₹71,112",40,41519,0,69%,"₹71,788",Full Office,6,0
+BK-000004,02/26/2023,BOM-BLR,Economy,Website,Frequent Flyer,"₹8,078",7,26140,0,69%,"₹70,806",Full Office,9,0
+BK-000005,03/02/2022,BOM-BLR,Economy,Website,Corporate,"₹5,741",114,11416,1,72%,"₹35,226",Full Office,2,0
+BK-000006,10/11/2022,BLR-MAA,Economy,Website,Frequent Flyer,"₹6,593",80,22859,0,98%,"₹5,714",Hybrid,8,1
+BK-000007,11/03/2023,CCU-HYD,Business,Mobile App,Government,"₹28,216",114,22253,0,59%,"₹67,425",Full Office,10,0
+BK-000008,05/10/2022,BOM-BLR,Economy,Mobile App,Leisure,"₹7,635",81,39230,0,92%,"₹89,977",Full Office,7,0
+BK-000009,12/20/2023,CCU-HYD,Business,Mobile App,Corporate,"₹42,343",49,18184,0,70%,"₹39,500",Hybrid,3,1
+BK-000010,05/16/2022,BOM-CCU,Economy,OTA,Leisure,"₹6,196",90,27846,1,93%,"₹88,769",Hybrid,1,1
+BK-000011,09/13/2022,DEL-BLR,Business,OTA,Frequent Flyer,"₹43,726",30,30221,0,100%,"₹17,045",Hybrid,6,0
+BK-000012,05/30/2022,BOM-BLR,Business,Mobile App,Corporate,"₹30,378",3,42771,1,71%,"₹30,204",Hybrid,2,0
+BK-000013,12/30/2023,BLR-MAA,Business,OTA,Leisure,"₹41,452",65,21459,0,61%,"₹19,512",Hybrid,3,0
+BK-000014,11/26/2022,DEL-BLR,Economy,OTA,Corporate,"₹7,871",55,15498,1,61%,"₹45,390",Hybrid,5,0
+BK-000015,09/11/2022,DEL-BLR,Economy,Mobile App,Corporate,"₹8,957",4,4262,1,89%,"₹72,743",Hybrid,8,0
+BK-000016,11/24/2023,DEL-BLR,Business,Mobile App,Government,"₹30,192",80,32914,0,62%,"₹33,956",Hybrid,2,0
+BK-000017,02/07/2023,BOM-CCU,Economy,OTA,Corporate,"₹4,976",53,45500,1,67%,"₹82,029",Full Remote,6,0
+BK-000018,05/17/2023,BLR-MAA,Economy,Travel Agent,Frequent Flyer,"₹5,747",102,34885,1,64%,"₹51,311",Full Office,1,0
+BK-000019,05/26/2022,DEL-HYD,Economy,Website,Leisure,"₹5,109",95,38215,1,71%,"₹44,561",Full Remote,7,0
+BK-000020,08/15/2023,DEL-BOM,Economy,Travel Agent,Leisure,"₹5,322",92,21398,0,58%,"₹71,898",Full Remote,4,1
+BK-000021,10/10/2023,BOM-BLR,Economy,Website,Corporate,"₹6,070",79,43623,1,94%,"₹13,623",Hybrid,1,0
+BK-000022,10/03/2022,BOM-BLR,Economy,Mobile App,Frequent Flyer,"₹6,434",0,29924,0,94%,"₹70,769",Hybrid,9,0
+BK-000023,10/05/2023,BOM-BLR,Economy,Website,Corporate,"₹8,662",75,318,0,74%,"₹25,651",Full Remote,9,0
+BK-000024,03/01/2023,CCU-HYD,Economy,Website,Leisure,"₹5,440",82,12161,1,83%,"₹28,869",Hybrid,3,0
+BK-000025,01/20/2023,DEL-HYD,Economy,Website,Leisure,"₹8,972",72,12323,0,84%,"₹55,954",Full Office,6,1
+BK-000026,04/08/2023,DEL-BLR,Economy,Corporate Portal,Leisure,"₹8,236",111,5749,1,89%,"₹81,664",Hybrid,7,0
+BK-000027,03/19/2022,DEL-BLR,Business,Website,Leisure,"₹46,096",60,33022,1,78%,"₹54,165",Hybrid,4,0
+BK-000028,10/11/2023,CCU-HYD,Economy,Website,Government,"₹8,779",6,9528,1,78%,"₹60,161",Full Remote,6,1
+BK-000029,04/06/2022,DEL-BOM,Economy,Website,Corporate,"₹7,977",29,21441,0,83%,"₹71,011",Hybrid,9,1
+BK-000030,02/17/2023,BLR-MAA,Economy,Mobile App,Leisure,"₹8,139",14,8526,1,87%,"₹27,043",Full Office,10,0
+BK-000031,06/12/2023,DEL-HYD,Economy,OTA,Government,"₹6,542",107,44051,1,71%,"₹75,315",Hybrid,6,0
+BK-000032,10/12/2022,DEL-HYD,Economy,Website,Leisure,"₹6,873",3,37161,0,70%,"₹40,527",Full Office,7,0
+BK-000033,12/13/2023,BOM-CCU,Economy,Website,Corporate,"₹8,793",62,1044,0,67%,"₹19,931",Hybrid,6,0
+BK-000034,01/13/2023,DEL-BLR,Business,Mobile App,Corporate,"₹33,767",69,12765,1,80%,"₹34,760",Full Office,7,1
+BK-000035,04/11/2023,DEL-HYD,Economy,Mobile App,Corporate,"₹4,741",37,18175,1,71%,"₹25,921",Full Office,1,0
+BK-000036,05/15/2023,DEL-HYD,Business,Website,Corporate,"₹43,187",46,48887,1,79%,"₹24,441",Full Office,6,0
+BK-000037,12/02/2022,BOM-BLR,First,Mobile App,Leisure,"₹93,603",59,961,1,73%,,Full Office,9,0
+BK-000038,08/19/2023,CCU-HYD,Economy,Mobile App,Leisure,"₹8,258",98,3749,0,93%,"₹20,379",Hybrid,3,0
+BK-000039,01/03/2022,DEL-BLR,Economy,Mobile App,Corporate,"₹4,894",1,37333,0,58%,"₹61,755",Full Office,6,0
+BK-000040,04/06/2022,BOM-CCU,Economy,OTA,Leisure,"₹7,377",68,40284,0,81%,"₹54,299",Hybrid,4,0
+BK-000041,04/15/2023,BLR-MAA,First,Website,Frequent Flyer,"₹74,239",7,16973,1,81%,"₹60,118",Full Office,7,0
+BK-000042,10/13/2023,DEL-BOM,Business,Website,Frequent Flyer,"₹46,630",50,18372,0,72%,"₹34,217",Full Remote,7,1
+BK-000043,11/12/2023,BLR-MAA,Business,Corporate Portal,Frequent Flyer,"₹27,193",116,43799,0,74%,"₹70,427",Hybrid,9,0
+BK-000044,12/16/2023,BOM-CCU,Economy,Corporate Portal,Corporate,"₹8,386",93,43393,0,91%,"₹16,017",Full Office,4,0
+BK-000045,01/02/2023,BOM-BLR,Business,Website,Corporate,"₹26,670",111,35757,1,68%,"₹53,547",Full Remote,8,0
+BK-000046,03/06/2022,DEL-BOM,Business,OTA,Frequent Flyer,"₹25,115",18,38433,1,94%,"₹28,414",Hybrid,8,0
+BK-000047,07/02/2023,BLR-MAA,Economy,Travel Agent,Corporate,"₹5,620",93,4541,0,95%,"₹49,847",Full Office,8,0
+BK-000048,02/12/2023,DEL-BLR,Economy,Website,Corporate,"₹6,065",118,30678,1,84%,"₹32,509",Hybrid,8,0
+BK-000049,08/12/2022,DEL-BLR,Economy,Mobile App,Leisure,"₹7,401",30,18344,0,90%,"₹72,194",Hybrid,6,0
+BK-000050,03/16/2023,DEL-BOM,Economy,Website,Corporate,"₹5,149",79,45154,0,83%,"₹80,758",Hybrid,8,0
+BK-000051,08/05/2022,DEL-BOM,Business,Website,Frequent Flyer,"₹35,215",101,8846,0,79%,"₹68,119",Hybrid,6,0
+BK-000052,05/22/2023,DEL-BOM,Economy,Website,Government,"₹5,479",21,33846,0,99%,"₹19,925",Full Remote,10,0
+BK-000053,10/02/2022,DEL-HYD,Economy,Travel Agent,Government,"₹8,442",32,35842,0,68%,"₹28,364",Full Remote,2,0
+BK-000054,11/27/2022,BOM-CCU,Economy,Corporate Portal,Frequent Flyer,"₹4,755",113,42315,1,62%,"₹83,145",Full Remote,3,0
+BK-000055,10/18/2022,DEL-BLR,Economy,Mobile App,Corporate,"₹6,170",85,5029,1,68%,"₹42,164",Hybrid,6,0
+BK-000056,12/12/2022,DEL-BLR,Economy,Mobile App,Government,"₹7,423",71,16272,1,83%,"₹85,000",Hybrid,7,0
+BK-000057,07/15/2023,BOM-CCU,First,Mobile App,Leisure,"₹113,829",36,48613,1,63%,"₹38,358",Full Office,4,0
+BK-000058,08/15/2023,BOM-BLR,Economy,Travel Agent,Government,"₹8,499",11,23770,1,96%,"₹85,901",Hybrid,1,0
+BK-000059,05/14/2022,DEL-BLR,Economy,Travel Agent,Corporate,"₹8,623",113,13104,0,73%,"₹83,688",Full Office,4,0
+BK-000060,08/03/2023,BLR-MAA,Economy,Mobile App,Government,"₹4,836",68,15855,1,93%,"₹61,145",Full Remote,6,0
+BK-000061,05/12/2023,BOM-BLR,Economy,Travel Agent,Frequent Flyer,"₹8,376",63,37524,1,66%,"₹5,750",Hybrid,8,0
+BK-000062,12/18/2022,CCU-HYD,Economy,Mobile App,Corporate,"₹8,099",24,37463,1,69%,"₹39,028",Hybrid,4,0
+BK-000063,11/30/2023,CCU-HYD,Economy,Travel Agent,Corporate,"₹8,656",53,919,0,58%,"₹82,455",Full Office,10,0
+BK-000064,02/19/2022,BLR-MAA,Economy,Website,Corporate,"₹5,968",28,42706,0,67%,"₹80,234",Full Office,1,0
+BK-000065,02/17/2022,DEL-BOM,Economy,Website,Leisure,"₹8,699",12,34526,1,77%,"₹20,928",Full Office,5,0
+BK-000066,04/12/2022,DEL-BLR,Economy,Mobile App,Corporate,"₹6,382",116,34599,1,98%,"₹38,931",Full Remote,7,0
+BK-000067,10/04/2023,BLR-MAA,Economy,Corporate Portal,Frequent Flyer,"₹7,435",25,9363,0,73%,"₹76,018",Full Office,6,0
+BK-000068,04/16/2023,BLR-MAA,Business,Mobile App,Leisure,"₹34,892",21,49511,1,84%,"₹54,120",Hybrid,3,0
+BK-000069,01/17/2022,DEL-BOM,Economy,OTA,Leisure,"₹6,496",92,14255,0,74%,"₹77,020",Full Office,7,1
+BK-000070,05/08/2022,CCU-HYD,Business,Website,Government,"₹37,893",75,3810,1,57%,"₹75,258",Hybrid,4,0
+BK-000071,06/11/2022,BOM-BLR,Economy,Mobile App,Leisure,"₹6,169",111,1440,0,78%,"₹82,136",Hybrid,5,0
+BK-000072,03/28/2023,BLR-MAA,Economy,Mobile App,Leisure,"₹8,157",109,43879,0,58%,"₹14,964",Full Remote,7,0
+BK-000073,04/13/2023,DEL-BLR,First,Travel Agent,Government,"₹97,202",106,1719,0,95%,"₹17,343",Hybrid,2,0
+BK-000074,01/01/2022,BOM-BLR,Economy,Corporate Portal,Government,"₹7,688",91,44213,0,89%,"₹12,039",Hybrid,4,0
+BK-000075,03/15/2023,BOM-BLR,Economy,Corporate Portal,Corporate,"₹5,601",72,555,0,72%,"₹84,498",Full Remote,4,0
+BK-000076,07/27/2022,BOM-CCU,Economy,Travel Agent,Corporate,"₹8,962",118,42193,1,84%,"₹45,389",Full Remote,6,0
+BK-000077,12/07/2023,CCU-HYD,Business,Travel Agent,Corporate,"₹40,674",9,12112,1,60%,"₹10,468",Full Office,7,0
+BK-000078,05/16/2022,DEL-BLR,Economy,OTA,Leisure,"₹5,447",47,2297,0,87%,"₹32,330",Hybrid,4,0
+BK-000079,10/28/2023,DEL-BLR,Economy,Mobile App,Corporate,"₹7,965",114,1535,1,92%,"₹34,870",Full Office,10,1
+BK-000080,11/06/2022,DEL-BOM,Economy,Corporate Portal,Government,"₹5,340",41,14931,0,92%,"₹73,813",Full Office,1,0
+BK-000081,06/12/2022,DEL-BOM,Business,OTA,Frequent Flyer,"₹26,053",89,6282,0,68%,"₹67,516",Full Office,1,1
+BK-000082,10/08/2022,DEL-HYD,Economy,Mobile App,Corporate,"₹6,950",116,28634,0,67%,"₹63,598",Full Office,5,0
+BK-000083,04/06/2022,DEL-BLR,Economy,Travel Agent,Leisure,"₹7,069",99,44262,0,78%,"₹6,858",Full Office,1,0
+BK-000084,11/02/2023,CCU-HYD,Economy,Mobile App,Leisure,"₹5,410",58,25485,1,99%,"₹82,409",Hybrid,3,1
+BK-000085,01/05/2023,BOM-BLR,Business,Website,Leisure,"₹33,035",52,34729,0,96%,"₹23,322",Full Remote,9,0
+BK-000086,09/14/2022,DEL-HYD,Economy,Travel Agent,Leisure,"₹8,853",39,24587,1,71%,"₹58,470",Hybrid,3,0
+BK-000087,03/26/2022,DEL-BLR,Economy,Website,Frequent Flyer,"₹5,847",74,33747,1,90%,"₹10,255",Hybrid,3,0
+BK-000088,01/16/2023,DEL-BOM,Business,Mobile App,Corporate,"₹28,311",61,33040,1,96%,"₹11,930",Full Remote,9,0
+BK-000089,11/12/2023,CCU-HYD,Economy,Corporate Portal,Corporate,"₹9,066",5,45543,1,67%,"₹5,814",Hybrid,5,1
+BK-000090,10/27/2023,DEL-BOM,Economy,Website,Leisure,"₹5,925",3,23641,1,92%,"₹53,104",Hybrid,8,0
+BK-000091,06/19/2022,DEL-BLR,First,Website,Leisure,"₹99,975",116,26573,1,67%,"₹58,497",Full Office,10,0
+BK-000092,02/23/2022,DEL-HYD,Business,Travel Agent,Corporate,"₹30,173",90,5144,1,70%,"₹9,289",Hybrid,9,0
+BK-000093,02/10/2023,DEL-BOM,Economy,Mobile App,Corporate,"₹7,053",54,1688,0,64%,"₹29,691",Hybrid,6,0
+BK-000094,10/03/2023,DEL-BOM,Economy,Mobile App,Leisure,"₹6,308",87,48088,1,78%,"₹77,374",Hybrid,7,0
+BK-000095,11/09/2022,BOM-CCU,Economy,Mobile App,Corporate,"₹8,925",68,17979,1,93%,"₹13,611",Hybrid,7,0
+BK-000096,12/18/2023,BLR-MAA,First,Website,Frequent Flyer,"₹85,252",113,31803,1,79%,"₹23,407",Full Office,7,0
+BK-000097,08/28/2022,DEL-BLR,First,Website,Leisure,"₹94,258",117,16154,0,61%,"₹41,073",Full Remote,4,0
+BK-000098,03/16/2023,BOM-CCU,Economy,Corporate Portal,Corporate,"₹8,849",2,37451,0,66%,"₹76,593",Hybrid,2,0
+BK-000099,11/03/2023,CCU-HYD,Business,Website,Leisure,"₹48,736",6,15123,0,80%,"₹26,662",Hybrid,2,0
+BK-000100,04/04/2022,BLR-MAA,Business,Mobile App,Corporate,"₹26,991",87,23998,1,81%,"₹89,757",Hybrid,7,0
+BK-000101,12/22/2023,DEL-BLR,Economy,OTA,Leisure,"₹8,346",85,5786,0,81%,"₹35,197",Hybrid,10,0
+BK-000102,04/08/2022,BOM-CCU,Economy,Corporate Portal,Leisure,"₹6,289",11,30289,1,58%,"₹37,848",Hybrid,7,1
+BK-000103,01/02/2022,BOM-CCU,Economy,Website,Leisure,"₹7,256",98,5129,0,89%,"₹15,379",Hybrid,10,0
+BK-000104,08/07/2022,DEL-BLR,Economy,Mobile App,Government,"₹6,256",16,28914,0,96%,"₹62,817",Hybrid,7,0
+BK-000105,05/04/2023,BOM-BLR,Business,Travel Agent,Corporate,"₹34,327",66,25777,0,78%,"₹25,695",Full Office,8,0
+BK-000106,03/21/2022,DEL-HYD,Business,Travel Agent,Frequent Flyer,"₹28,392",74,2845,1,87%,"₹58,454",Hybrid,3,0
+BK-000107,05/16/2022,DEL-BLR,Economy,Corporate Portal,Government,"₹7,156",69,8448,0,96%,"₹23,968",Hybrid,5,0
+BK-000108,08/31/2023,BOM-CCU,Economy,Mobile App,Corporate,"₹7,038",106,49461,1,84%,"₹37,969",Hybrid,6,0
+BK-000109,08/20/2022,BOM-BLR,Economy,Website,Corporate,"₹5,412",35,27139,1,85%,,Full Remote,8,0
+BK-000110,06/16/2023,BOM-CCU,Business,Mobile App,Corporate,"₹37,772",16,21718,1,87%,"₹67,807",Full Office,8,0
+BK-000111,11/28/2023,DEL-HYD,Economy,Travel Agent,Corporate,"₹8,978",85,49030,1,67%,"₹18,140",Hybrid,10,1
+BK-000112,04/01/2023,CCU-HYD,Economy,Travel Agent,Leisure,"₹7,801",0,23581,1,81%,"₹56,655",Full Office,3,0
+BK-000113,01/10/2022,BOM-BLR,Economy,Website,Corporate,"₹6,738",107,27993,0,93%,"₹58,434",Hybrid,4,1
+BK-000114,01/09/2022,DEL-BLR,Economy,Website,Frequent Flyer,"₹8,718",119,42048,1,68%,"₹12,698",Full Office,6,0
+BK-000115,12/14/2023,BLR-MAA,Economy,OTA,Corporate,"₹7,168",66,12923,0,95%,"₹44,593",Hybrid,4,0
+BK-000116,12/18/2022,CCU-HYD,First,Website,Corporate,"₹67,535",79,13084,1,83%,"₹27,157",Full Remote,10,0
+BK-000117,05/04/2022,DEL-HYD,Economy,Website,Corporate,"₹7,041",98,17560,0,74%,"₹44,706",Full Remote,4,0
+BK-000118,03/09/2023,DEL-BOM,Economy,Corporate Portal,Corporate,"₹5,373",77,22567,0,83%,"₹71,051",Hybrid,5,0
+BK-000119,12/12/2023,DEL-BLR,Economy,Mobile App,Frequent Flyer,"₹8,042",48,19481,0,73%,"₹18,452",Hybrid,10,1
+BK-000120,05/16/2022,DEL-BLR,Economy,Website,Leisure,"₹8,951",50,32016,1,93%,"₹15,481",Hybrid,7,0
+BK-000121,05/05/2023,DEL-BLR,Economy,Mobile App,Corporate,"₹6,192",70,11422,1,77%,"₹27,892",Full Office,2,0
+BK-000122,03/14/2022,BOM-BLR,Economy,Mobile App,Frequent Flyer,"₹6,529",89,1724,1,96%,"₹85,943",Hybrid,2,0
+BK-000123,08/23/2022,DEL-BOM,Business,Mobile App,Frequent Flyer,"₹34,827",119,30471,0,78%,"₹68,565",Hybrid,10,0
+BK-000124,01/28/2023,CCU-HYD,Economy,OTA,Government,"₹5,848",42,2628,1,85%,"₹6,654",Full Office,9,0
+BK-000125,04/02/2022,CCU-HYD,Economy,Website,Frequent Flyer,"₹8,164",111,27875,0,100%,"₹39,085",Hybrid,4,0
+BK-000126,04/15/2022,BOM-BLR,Economy,Travel Agent,Leisure,"₹7,361",30,17734,0,62%,"₹26,879",Full Office,5,0
+BK-000127,04/16/2022,BLR-MAA,Business,Website,Leisure,"₹26,069",23,24109,1,88%,"₹59,242",Hybrid,3,0
+BK-000128,11/17/2022,BOM-BLR,Economy,Mobile App,Leisure,"₹8,367",82,619,1,61%,"₹44,040",Hybrid,2,1
+BK-000129,01/12/2023,DEL-BLR,Business,Travel Agent,Corporate,"₹29,084",36,13786,0,93%,"₹86,982",Full Remote,10,0
+BK-000130,11/03/2022,BOM-CCU,Economy,Website,Leisure,"₹9,005",64,28634,1,82%,"₹23,613",Full Office,8,0
+BK-000131,05/21/2022,DEL-BOM,Economy,Travel Agent,Frequent Flyer,"₹6,264",88,21927,1,97%,"₹54,968",Full Office,4,0
+BK-000132,01/27/2023,DEL-BOM,Economy,Website,Leisure,"₹7,355",62,9729,1,94%,"₹64,518",Full Office,1,0
+BK-000133,05/17/2022,CCU-HYD,First,Website,Frequent Flyer,"₹64,131",55,22237,0,58%,"₹75,173",Hybrid,6,0
+BK-000134,10/19/2023,CCU-HYD,Economy,Mobile App,Leisure,"₹6,118",73,36540,0,61%,"₹39,593",Full Office,6,0
+BK-000135,11/25/2023,BOM-BLR,Economy,Travel Agent,Government,"₹8,201",17,35301,0,82%,"₹63,388",Hybrid,2,1
+BK-000136,05/27/2022,BOM-CCU,Economy,Website,Leisure,"₹6,721",105,41437,0,78%,"₹30,772",Hybrid,2,0
+BK-000137,03/12/2022,BOM-CCU,Economy,OTA,Government,"₹8,666",64,21735,0,63%,"₹42,015",Full Office,8,0
+BK-000138,06/28/2023,BOM-BLR,Economy,Website,Leisure,"₹7,167",28,34808,1,61%,"₹81,128",Full Remote,7,1
+BK-000139,07/31/2023,DEL-HYD,Economy,Website,Corporate,"₹8,775",76,17949,0,80%,"₹85,742",Hybrid,2,0
+BK-000140,01/09/2022,BLR-MAA,Economy,Website,Corporate,"₹9,021",3,20509,1,57%,"₹66,099",Hybrid,10,0
+BK-000141,09/17/2023,BOM-BLR,Economy,Website,Frequent Flyer,"₹6,615",11,29398,0,94%,"₹36,820",Full Office,1,0
+BK-000142,10/28/2023,DEL-BLR,Economy,Website,Corporate,"₹7,121",55,4268,1,91%,"₹74,705",Hybrid,8,0
+BK-000143,06/18/2022,BOM-CCU,Economy,Corporate Portal,Leisure,"₹8,349",47,35607,1,90%,"₹7,199",Hybrid,10,0
+BK-000144,03/27/2023,BLR-MAA,Economy,Mobile App,Leisure,"₹5,558",18,49619,0,56%,"₹13,733",Full Office,2,0
+BK-000145,12/26/2022,BOM-BLR,Economy,Mobile App,Leisure,"₹8,470",25,44507,1,57%,"₹61,217",Hybrid,5,0
+BK-000146,08/07/2022,BLR-MAA,Economy,OTA,Government,"₹7,243",107,47826,0,80%,"₹29,756",Hybrid,6,0
+BK-000147,10/06/2023,DEL-HYD,Economy,Mobile App,Government,"₹7,851",37,40944,0,100%,"₹85,868",Hybrid,10,0
+BK-000148,06/05/2022,BOM-CCU,Economy,Website,Frequent Flyer,"₹4,913",79,39308,0,70%,"₹42,065",Full Office,1,0
+BK-000149,02/26/2023,DEL-HYD,Economy,Website,Leisure,"₹8,036",107,12412,0,70%,"₹41,496",Full Remote,2,0
+BK-000150,09/23/2023,CCU-HYD,Economy,Website,Leisure,"₹5,964",24,35511,1,61%,"₹62,637",Hybrid,10,0
+BK-000151,12/05/2023,DEL-HYD,Economy,Mobile App,Frequent Flyer,"₹8,214",55,27150,1,85%,"₹70,243",Full Remote,4,1
+BK-000152,03/30/2023,BOM-CCU,Economy,Website,Frequent Flyer,"₹6,867",73,5642,0,84%,"₹45,422",Hybrid,2,0
+BK-000153,08/11/2022,CCU-HYD,Economy,Mobile App,Frequent Flyer,"₹5,799",100,10069,1,60%,"₹23,190",Hybrid,6,0
+BK-000154,03/30/2022,DEL-BLR,Economy,Travel Agent,Government,"₹8,885",27,31832,1,76%,"₹70,731",Hybrid,4,1
+BK-000155,04/13/2022,DEL-HYD,Economy,Corporate Portal,Corporate,"₹8,031",60,1026,0,85%,"₹32,230",Hybrid,3,0
+BK-000156,05/24/2022,BOM-BLR,Economy,Travel Agent,Corporate,"₹9,035",91,3592,0,77%,"₹19,884",Full Office,6,1
+BK-000157,05/07/2022,BOM-BLR,Economy,Website,Frequent Flyer,"₹6,208",88,987,0,85%,"₹58,689",Full Office,9,0
+BK-000158,08/27/2023,BLR-MAA,Business,Website,Frequent Flyer,"₹40,406",88,15917,1,92%,"₹12,689",Full Office,8,0
+BK-000159,01/29/2023,BOM-BLR,Economy,Mobile App,Government,"₹7,333",50,7238,0,86%,"₹87,565",Hybrid,2,0
+BK-000160,12/26/2022,BOM-BLR,First,Website,Corporate,"₹100,410",11,35515,0,83%,,Full Remote,3,0
+BK-000161,03/16/2023,CCU-HYD,Economy,Website,Leisure,"₹4,724",7,8330,1,93%,"₹88,801",Hybrid,2,0
+BK-000162,11/19/2022,CCU-HYD,Business,Mobile App,Corporate,"₹31,647",99,5650,1,96%,"₹33,806",Full Office,10,0
+BK-000163,05/24/2022,BLR-MAA,Economy,Mobile App,Leisure,"₹8,687",102,37264,0,72%,"₹87,552",Hybrid,7,0
+BK-000164,09/11/2022,DEL-BOM,Business,Travel Agent,Leisure,"₹34,884",57,25217,1,63%,"₹17,373",Full Office,9,0
+BK-000165,10/11/2022,BOM-CCU,Economy,Mobile App,Frequent Flyer,"₹8,921",87,49588,1,92%,"₹8,459",Full Remote,1,0
+BK-000166,10/23/2023,BOM-BLR,Economy,OTA,Corporate,"₹5,521",22,17807,0,65%,"₹7,804",Hybrid,3,0
+BK-000167,03/28/2022,BLR-MAA,Economy,Travel Agent,Leisure,"₹9,088",36,25712,1,97%,"₹44,514",Hybrid,6,0
+BK-000168,09/12/2022,DEL-HYD,First,Website,Leisure,"₹101,006",10,36489,0,56%,"₹12,055",Hybrid,4,1
+BK-000169,07/21/2023,DEL-HYD,First,Mobile App,Government,"₹105,695",16,27865,1,96%,"₹48,534",Hybrid,10,0
+BK-000170,09/08/2023,CCU-HYD,Economy,Mobile App,Leisure,"₹6,356",91,24633,0,82%,"₹32,838",Hybrid,10,0
+BK-000171,09/07/2023,DEL-BLR,Economy,Travel Agent,Frequent Flyer,"₹8,677",55,25275,0,90%,"₹33,528",Hybrid,1,0
+BK-000172,09/15/2023,BOM-BLR,Economy,Mobile App,Corporate,"₹7,032",52,1145,0,73%,"₹59,027",Hybrid,9,0
+BK-000173,10/19/2022,BOM-CCU,Economy,Mobile App,Corporate,"₹7,648",66,21963,0,100%,"₹18,863",Full Remote,7,0
+BK-000174,12/09/2023,BLR-MAA,Economy,Mobile App,Government,"₹4,981",1,9300,1,65%,"₹70,157",Full Office,7,0
+BK-000175,01/28/2022,CCU-HYD,First,Website,Leisure,"₹97,085",114,46697,1,67%,"₹54,473",Hybrid,1,0
+BK-000176,11/06/2023,DEL-BLR,Economy,OTA,Corporate,"₹8,550",28,20879,0,57%,"₹82,770",Hybrid,9,1
+BK-000177,11/05/2022,DEL-BLR,Economy,Mobile App,Leisure,"₹5,361",56,6242,0,97%,,Hybrid,8,0
+BK-000178,07/30/2022,BLR-MAA,Economy,Website,Government,"₹7,907",33,13832,1,76%,"₹88,531",Full Office,10,0
+BK-000179,06/15/2023,CCU-HYD,Economy,Website,Corporate,"₹4,666",77,24683,0,85%,"₹53,945",Hybrid,5,0
+BK-000180,09/14/2023,CCU-HYD,Economy,Corporate Portal,Corporate,"₹8,764",96,14285,0,86%,"₹87,739",Full Office,4,0
+BK-000181,06/06/2023,BLR-MAA,Economy,Travel Agent,Frequent Flyer,"₹9,022",111,28823,1,94%,"₹7,300",Hybrid,1,0
+BK-000182,07/13/2022,BLR-MAA,Economy,Corporate Portal,Leisure,"₹6,162",110,9097,1,85%,"₹66,878",Hybrid,9,0
+BK-000183,02/06/2023,BLR-MAA,Economy,Corporate Portal,Corporate,"₹5,037",81,47852,1,80%,"₹74,413",Hybrid,8,0
+BK-000184,10/30/2022,BOM-CCU,Economy,Corporate Portal,Corporate,"₹7,547",92,1992,1,87%,"₹9,520",Hybrid,2,0
+BK-000185,10/24/2023,BLR-MAA,Economy,Mobile App,Leisure,"₹4,686",1,36890,0,89%,"₹54,212",Hybrid,4,0
+BK-000186,02/25/2022,CCU-HYD,Business,Website,Corporate,"₹36,321",74,28790,1,63%,"₹73,165",Hybrid,4,0
+BK-000187,09/03/2022,BOM-CCU,Economy,Website,Frequent Flyer,"₹5,787",30,29394,0,60%,"₹52,688",Hybrid,7,0
+BK-000188,05/22/2023,BOM-CCU,Business,Mobile App,Government,"₹36,097",116,45058,0,58%,"₹10,424",Hybrid,3,0
+BK-000189,01/31/2023,BOM-CCU,Economy,Mobile App,Leisure,"₹4,633",112,49957,1,72%,"₹63,943",Full Office,8,0
+BK-000190,04/26/2022,DEL-HYD,Economy,Mobile App,Frequent Flyer,"₹4,785",76,18376,1,77%,"₹10,151",Hybrid,7,0
+BK-000191,09/04/2022,DEL-BOM,Economy,Mobile App,Leisure,"₹4,623",43,23880,0,83%,"₹74,485",Hybrid,10,0
+BK-000192,05/27/2023,DEL-BLR,Business,Travel Agent,Corporate,"₹39,669",89,19984,0,98%,"₹8,658",Full Office,4,0
+BK-000193,10/16/2023,BOM-BLR,Business,Website,Government,"₹38,222",55,13541,1,70%,"₹16,679",Hybrid,9,0
+BK-000194,09/01/2023,DEL-HYD,Economy,Website,Leisure,"₹5,611",97,28975,1,89%,"₹28,384",Full Remote,6,0
+BK-000195,03/14/2022,CCU-HYD,Economy,Travel Agent,Corporate,"₹7,492",53,4010,1,79%,"₹58,836",Full Office,3,0
+BK-000196,06/25/2023,DEL-BOM,Business,Website,Corporate,"₹46,163",52,8275,0,65%,"₹87,991",Hybrid,7,0
+BK-000197,01/13/2022,DEL-BLR,Economy,Travel Agent,Leisure,"₹5,812",113,36088,1,83%,"₹15,015",Full Office,6,0
+BK-000198,01/05/2023,DEL-HYD,Economy,Mobile App,Corporate,"₹8,336",73,18889,1,99%,"₹17,130",Full Remote,8,0
+BK-000199,11/21/2022,DEL-BLR,Economy,OTA,Government,"₹7,564",75,40596,1,61%,"₹36,354",Full Remote,5,0
+BK-000200,05/16/2022,BOM-CCU,Economy,Corporate Portal,Government,"₹4,704",112,40653,0,78%,"₹76,079",Full Remote,6,0
+BK-000201,02/01/2023,BOM-CCU,Economy,Mobile App,Leisure,"₹6,257",85,40016,0,57%,"₹44,715",Hybrid,1,0
+BK-000202,08/06/2023,BLR-MAA,Economy,Travel Agent,Leisure,"₹6,860",45,40636,0,69%,"₹32,337",Full Remote,8,1
+BK-000203,03/07/2023,CCU-HYD,Economy,Website,Leisure,"₹7,879",53,32155,0,83%,"₹52,702",Full Remote,1,0
+BK-000204,01/10/2023,BOM-CCU,Economy,Mobile App,Corporate,"₹5,856",30,6349,0,93%,"₹27,144",Full Office,3,0
+BK-000205,07/14/2023,DEL-HYD,Economy,Travel Agent,Corporate,"₹9,021",82,23347,1,88%,"₹39,099",Full Office,2,1
+BK-000206,12/01/2023,DEL-BLR,Economy,Travel Agent,Corporate,"₹7,665",108,3062,0,76%,"₹33,271",Full Office,6,0
+BK-000207,06/26/2022,BOM-BLR,Economy,Mobile App,Corporate,"₹6,246",23,3852,1,96%,"₹73,352",Full Office,8,0
+BK-000208,04/28/2023,CCU-HYD,Economy,Website,Leisure,"₹4,991",24,13160,0,69%,,Hybrid,8,0
+BK-000209,03/16/2022,DEL-BLR,First,Corporate Portal,Government,"₹70,291",34,16322,1,89%,"₹69,564",Full Office,7,0
+BK-000210,01/18/2022,BOM-CCU,Business,Website,Leisure,"₹36,446",56,387,1,76%,"₹42,322",Hybrid,7,0
+BK-000211,08/25/2023,DEL-BLR,Economy,Corporate Portal,Frequent Flyer,"₹6,801",71,46891,1,95%,"₹47,868",Hybrid,8,0
+BK-000212,03/11/2022,DEL-BOM,Business,Travel Agent,Frequent Flyer,"₹43,309",68,39805,0,91%,"₹15,631",Full Office,5,0
+BK-000213,01/15/2022,DEL-BLR,Economy,Mobile App,Frequent Flyer,"₹7,854",85,6910,1,96%,,Hybrid,3,0
+BK-000214,09/26/2022,DEL-HYD,Economy,Website,Frequent Flyer,"₹5,466",27,15758,1,65%,"₹55,700",Full Office,2,0
+BK-000215,08/09/2022,DEL-BOM,Economy,Website,Leisure,"₹7,257",75,2003,1,85%,"₹81,707",Hybrid,3,0
+BK-000216,02/10/2022,CCU-HYD,Business,Corporate Portal,Leisure,"₹25,005",32,25607,1,88%,"₹22,052",Full Remote,3,0
+BK-000217,03/03/2022,BLR-MAA,Business,Corporate Portal,Corporate,"₹34,264",52,38513,1,88%,"₹69,577",Full Remote,7,0
+BK-000218,02/12/2023,BLR-MAA,Economy,Mobile App,Government,"₹8,027",15,25025,0,78%,"₹63,197",Full Remote,1,0
+BK-000219,06/03/2023,DEL-BLR,Economy,Mobile App,Leisure,"₹6,368",25,3547,1,56%,"₹27,597",Full Office,7,1
+BK-000220,10/21/2022,BOM-BLR,Economy,Travel Agent,Leisure,"₹8,352",11,25672,1,67%,"₹61,727",Full Office,6,0
+BK-000221,10/06/2023,DEL-HYD,Economy,Mobile App,Government,"₹8,992",86,41819,1,70%,"₹83,572",Hybrid,10,0
+BK-000222,12/31/2023,BOM-BLR,Economy,Travel Agent,Leisure,"₹7,313",112,14456,1,93%,"₹83,067",Hybrid,2,0
+BK-000223,05/29/2023,DEL-BOM,Economy,Mobile App,Leisure,"₹5,210",89,301,1,93%,"₹66,168",Hybrid,10,0
+BK-000224,03/02/2023,BOM-BLR,Business,Corporate Portal,Leisure,"₹33,802",104,39872,0,60%,"₹9,086",Full Office,1,0
+BK-000225,03/10/2023,CCU-HYD,Business,Travel Agent,Government,"₹24,732",76,31603,1,98%,"₹79,142",Hybrid,9,0
+BK-000226,12/20/2023,DEL-BOM,Economy,Mobile App,Frequent Flyer,"₹7,292",86,41840,1,63%,"₹60,911",Full Office,2,0
+BK-000227,02/16/2023,CCU-HYD,Economy,Corporate Portal,Frequent Flyer,"₹8,288",30,43241,1,74%,"₹31,387",Hybrid,4,1
+BK-000228,03/26/2022,BOM-BLR,Business,Mobile App,Government,"₹39,934",99,20545,1,65%,"₹20,916",Full Office,9,1
+BK-000229,10/18/2023,BLR-MAA,Business,Website,Corporate,"₹43,759",26,49381,1,94%,"₹14,877",Hybrid,9,0
+BK-000230,07/04/2023,DEL-HYD,Economy,Website,Frequent Flyer,"₹8,190",35,40478,1,89%,"₹9,270",Hybrid,1,0
+BK-000231,07/05/2023,BOM-BLR,Economy,Travel Agent,Corporate,"₹8,422",58,16178,0,71%,"₹69,099",Hybrid,2,0
+BK-000232,09/23/2023,DEL-BLR,Business,Corporate Portal,Frequent Flyer,"₹31,033",110,18216,1,86%,"₹25,047",Full Office,2,0
+BK-000233,06/06/2022,CCU-HYD,Business,Corporate Portal,Corporate,"₹45,846",105,8242,1,63%,"₹7,061",Full Office,2,1
+BK-000234,10/12/2022,DEL-BOM,Economy,Travel Agent,Leisure,"₹7,526",86,7496,1,72%,"₹38,768",Hybrid,8,0
+BK-000235,03/27/2022,CCU-HYD,Economy,Website,Government,"₹5,868",101,20866,1,72%,"₹46,022",Hybrid,8,0
+BK-000236,11/14/2022,DEL-BLR,Economy,Website,Leisure,"₹9,042",2,28357,1,66%,"₹19,385",Full Office,10,0
+BK-000237,03/22/2022,DEL-HYD,Economy,Mobile App,Leisure,"₹8,873",93,46252,1,94%,"₹8,744",Full Office,8,0
+BK-000238,06/08/2023,DEL-BLR,Business,Corporate Portal,Government,"₹38,574",31,31212,0,86%,"₹21,076",Hybrid,4,0
+BK-000239,07/28/2022,BLR-MAA,Economy,OTA,Leisure,"₹8,387",14,5887,0,68%,"₹62,724",Full Remote,8,0
+BK-000240,06/09/2022,CCU-HYD,Business,Website,Corporate,"₹30,907",101,17862,1,66%,"₹11,991",Full Remote,7,0
+BK-000241,07/04/2023,BLR-MAA,Economy,Corporate Portal,Leisure,"₹6,443",74,34856,0,56%,"₹52,178",Full Office,8,0
+BK-000242,12/01/2022,BOM-CCU,Economy,Mobile App,Corporate,"₹5,387",65,6040,1,71%,"₹17,445",Full Remote,1,0
+BK-000243,02/05/2023,DEL-HYD,Economy,Website,Government,"₹6,916",89,24536,1,79%,"₹21,634",Hybrid,3,1
+BK-000244,08/24/2023,BOM-BLR,Business,Mobile App,Corporate,"₹36,652",62,13440,0,67%,"₹38,412",Hybrid,10,0
+BK-000245,10/12/2023,BLR-MAA,First,Corporate Portal,Leisure,"₹72,162",97,47189,1,87%,"₹13,570",Hybrid,6,0
+BK-000246,10/28/2023,BOM-BLR,Economy,Website,Leisure,"₹7,611",0,28371,1,74%,,Hybrid,1,0
+BK-000247,11/29/2023,CCU-HYD,Economy,Corporate Portal,Corporate,"₹5,086",74,19724,0,69%,"₹34,661",Hybrid,4,0
+BK-000248,10/21/2023,BOM-BLR,First,Website,Leisure,"₹63,171",4,2343,0,97%,"₹33,022",Hybrid,9,0
+BK-000249,03/09/2022,CCU-HYD,Economy,Website,Leisure,"₹6,301",89,7188,1,67%,"₹68,688",Full Office,7,0
+BK-000250,11/14/2022,DEL-BOM,First,Website,Frequent Flyer,"₹83,885",5,34006,0,73%,"₹11,356",Full Office,1,1
+BK-000251,12/17/2023,DEL-BLR,Economy,Corporate Portal,Frequent Flyer,"₹6,005",98,29096,0,72%,"₹78,138",Full Remote,6,0
+BK-000252,03/24/2023,BOM-BLR,Economy,Mobile App,Government,"₹5,724",115,45216,0,66%,"₹74,380",Full Remote,6,0
+BK-000253,09/02/2022,CCU-HYD,Economy,Corporate Portal,Leisure,"₹6,091",4,6856,0,65%,"₹70,109",Hybrid,2,0
+BK-000254,03/01/2022,BOM-CCU,Business,Mobile App,Leisure,"₹28,503",115,22044,1,69%,"₹31,297",Full Office,6,0
+BK-000255,09/08/2022,DEL-HYD,Business,Mobile App,Corporate,"₹34,385",72,10620,0,94%,"₹74,945",Full Office,10,0
+BK-000256,03/30/2022,DEL-HYD,Economy,Corporate Portal,Leisure,"₹8,666",27,20723,1,90%,"₹20,538",Full Office,2,1
+BK-000257,03/21/2023,DEL-BOM,Economy,Mobile App,Frequent Flyer,"₹5,571",82,41142,0,86%,"₹15,575",Full Office,8,0
+BK-000258,04/29/2022,BOM-CCU,Economy,Corporate Portal,Leisure,"₹7,664",68,41503,1,76%,"₹8,821",Hybrid,7,0
+BK-000259,04/10/2023,DEL-BLR,Economy,Website,Leisure,"₹5,195",86,23475,0,78%,"₹84,841",Full Remote,6,0
+BK-000260,09/19/2023,BOM-CCU,Economy,Travel Agent,Corporate,"₹6,160",107,30243,1,67%,"₹31,181",Hybrid,10,0
+BK-000261,09/16/2023,CCU-HYD,Business,Travel Agent,Corporate,"₹32,369",43,32860,1,58%,"₹82,998",Full Office,6,1
+BK-000262,02/26/2022,DEL-HYD,Economy,Corporate Portal,Corporate,"₹8,813",15,2415,1,70%,"₹28,172",Hybrid,9,0
+BK-000263,11/13/2022,BOM-CCU,Economy,Website,Leisure,"₹6,497",70,4254,1,77%,"₹82,143",Full Office,9,0
+BK-000264,11/14/2023,DEL-BLR,Economy,Travel Agent,Leisure,"₹7,692",77,10637,1,58%,"₹81,834",Full Office,10,0
+BK-000265,11/05/2023,BLR-MAA,Economy,Mobile App,Leisure,"₹7,291",21,24510,1,59%,"₹83,512",Full Office,10,0
+BK-000266,06/29/2022,BOM-BLR,Economy,Mobile App,Leisure,"₹5,192",72,37301,0,67%,"₹47,173",Full Remote,2,0
+BK-000267,05/03/2022,CCU-HYD,Business,Website,Government,"₹47,519",110,6516,1,72%,"₹78,605",Full Remote,3,0
+BK-000268,01/13/2022,BOM-BLR,Economy,Website,Government,"₹6,124",22,4401,0,73%,"₹85,815",Full Office,10,0
+BK-000269,12/26/2023,DEL-HYD,Economy,Corporate Portal,Government,"₹4,754",42,35800,1,60%,"₹32,592",Full Remote,7,0
+BK-000270,05/21/2022,DEL-HYD,Economy,Travel Agent,Leisure,"₹5,917",67,32122,1,65%,"₹40,604",Full Remote,10,0
+BK-000271,12/20/2023,DEL-BLR,Business,Mobile App,Leisure,"₹32,723",42,19673,1,67%,"₹66,135",Full Office,9,0
+BK-000272,01/12/2022,BOM-CCU,Economy,Corporate Portal,Frequent Flyer,"₹4,972",25,29653,0,58%,"₹30,531",Full Office,6,0
+BK-000273,06/17/2022,DEL-BLR,Economy,Website,Corporate,"₹7,371",40,43336,0,70%,"₹69,074",Hybrid,1,0
+BK-000274,05/24/2023,DEL-BOM,First,Travel Agent,Corporate,"₹80,132",69,20822,0,58%,"₹11,281",Full Office,7,0
+BK-000275,12/22/2022,DEL-HYD,Business,Corporate Portal,Leisure,"₹39,914",30,6867,0,87%,"₹49,497",Full Remote,1,0
+BK-000276,06/20/2023,CCU-HYD,Economy,Corporate Portal,Leisure,"₹4,581",16,46944,0,72%,"₹15,397",Hybrid,5,0
+BK-000277,06/14/2023,CCU-HYD,Economy,Mobile App,Corporate,"₹9,018",8,36002,0,70%,"₹29,932",Hybrid,9,0
+BK-000278,09/23/2022,DEL-HYD,Business,Travel Agent,Government,"₹28,678",90,22381,1,61%,"₹26,983",Full Office,10,0
+BK-000279,06/20/2022,DEL-HYD,Economy,Mobile App,Leisure,"₹7,550",54,39069,1,65%,"₹76,309",Full Remote,10,0
+BK-000280,01/16/2023,DEL-BLR,Economy,Corporate Portal,Leisure,"₹7,807",5,17517,1,65%,"₹21,449",Hybrid,9,0
+BK-000281,05/10/2022,CCU-HYD,Economy,Mobile App,Leisure,"₹5,331",69,11830,1,99%,"₹73,718",Hybrid,1,0
+BK-000282,10/03/2022,DEL-BLR,Economy,Corporate Portal,Leisure,"₹5,058",63,10589,1,93%,,Full Office,6,0
+BK-000283,05/01/2022,BOM-CCU,First,Website,Corporate,"₹68,578",3,34830,1,56%,"₹47,405",Hybrid,3,0
+BK-000284,01/31/2022,BLR-MAA,Economy,Travel Agent,Corporate,"₹5,673",115,4627,1,83%,"₹24,877",Hybrid,9,1
+BK-000285,12/10/2022,DEL-HYD,Economy,Mobile App,Corporate,"₹5,315",106,45910,0,67%,"₹24,286",Full Remote,3,0
+BK-000286,03/16/2023,BLR-MAA,First,Travel Agent,Government,"₹99,603",66,468,1,60%,"₹44,519",Hybrid,2,0
+BK-000287,10/06/2022,DEL-BLR,Economy,Travel Agent,Leisure,"₹6,465",87,1344,1,87%,"₹5,749",Hybrid,8,0
+BK-000288,06/21/2023,BOM-CCU,Economy,OTA,Leisure,"₹6,997",55,25454,0,61%,"₹50,165",Full Office,3,0
+BK-000289,03/07/2022,DEL-BLR,Economy,Corporate Portal,Leisure,"₹4,765",17,6098,1,75%,"₹85,986",Hybrid,5,0
+BK-000290,09/27/2022,DEL-BOM,Economy,Website,Leisure,"₹8,469",31,44869,0,83%,"₹18,150",Full Office,6,0
